@@ -1,0 +1,140 @@
+{
+ "ppu": 160,
+ "sprites": {
+  "tuut_roda": {
+   "file": "tuut_roda.png",
+   "w": 96,
+   "h": 96,
+   "pivot": [
+    48,
+    48
+   ],
+   "anchors": {}
+  },
+  "gerbong_roda": {
+   "file": "gerbong_roda.png",
+   "w": 80,
+   "h": 80,
+   "pivot": [
+    40,
+    40
+   ],
+   "anchors": {}
+  },
+  "paket_merah": {
+   "file": "paket_merah.png",
+   "w": 100,
+   "h": 107,
+   "pivot": [
+    50,
+    107
+   ],
+   "anchors": {}
+  },
+  "paket_kuning": {
+   "file": "paket_kuning.png",
+   "w": 100,
+   "h": 107,
+   "pivot": [
+    50,
+    107
+   ],
+   "anchors": {}
+  },
+  "paket_biru": {
+   "file": "paket_biru.png",
+   "w": 100,
+   "h": 107,
+   "pivot": [
+    50,
+    107
+   ],
+   "anchors": {}
+  },
+  "rumah_merah": {
+   "file": "rumah_merah.png",
+   "w": 320,
+   "h": 326,
+   "pivot": [
+    160,
+    325
+   ],
+   "anchors": {
+    "pintu": [
+     160,
+     260
+    ]
+   }
+  },
+  "rumah_kuning": {
+   "file": "rumah_kuning.png",
+   "w": 320,
+   "h": 326,
+   "pivot": [
+    160,
+    325
+   ],
+   "anchors": {
+    "pintu": [
+     160,
+     260
+    ]
+   }
+  },
+  "rumah_biru": {
+   "file": "rumah_biru.png",
+   "w": 320,
+   "h": 326,
+   "pivot": [
+    160,
+    325
+   ],
+   "anchors": {
+    "pintu": [
+     160,
+     260
+    ]
+   }
+  },
+  "buah_apel": {
+   "file": "buah_apel.png",
+   "w": 66,
+   "h": 72,
+   "pivot": [
+    33,
+    72
+   ],
+   "anchors": {}
+  },
+  "buah_pisang": {
+   "file": "buah_pisang.png",
+   "w": 119,
+   "h": 72,
+   "pivot": [
+    60,
+    72
+   ],
+   "anchors": {}
+  },
+  "buah_jeruk": {
+   "file": "buah_jeruk.png",
+   "w": 59,
+   "h": 72,
+   "pivot": [
+    30,
+    72
+   ],
+   "anchors": {}
+  },
+  "buah_blueberry": {
+   "file": "buah_blueberry.png",
+   "w": 73,
+   "h": 72,
+   "pivot": [
+    36,
+    72
+   ],
+   "anchors": {}
+  }
+ }
+}

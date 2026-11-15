@@ -1,0 +1,35 @@
+name: kereta_api
+description: Game anak (3 tahun ke atas) bertema kereta api. Melajukan kereta dan menjalankan misi.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.38.2
+  audioplayers: ^6.8.1
+  shared_preferences: ^2.5.6
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/brand/
+    - assets/textures/
+    - assets/ui/
+    - assets/sprites/
+    - assets/stickers/
+    - assets/backgrounds/
+    - assets/audio/suara/
+    - assets/audio/sfx/
+    - assets/audio/musik/

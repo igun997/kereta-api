@@ -1,0 +1,733 @@
+{
+ "ppu": 160,
+ "sprites": {
+  "awan_1": {
+   "file": "awan_1.png",
+   "w": 268,
+   "h": 170,
+   "pivot": [
+    134,
+    85
+   ],
+   "anchors": {}
+  },
+  "awan_2": {
+   "file": "awan_2.png",
+   "w": 248,
+   "h": 166,
+   "pivot": [
+    124,
+    83
+   ],
+   "anchors": {}
+  },
+  "awan_3": {
+   "file": "awan_3.png",
+   "w": 288,
+   "h": 191,
+   "pivot": [
+    144,
+    95
+   ],
+   "anchors": {}
+  },
+  "bintang_kecil": {
+   "file": "bintang_kecil.png",
+   "w": 48,
+   "h": 48,
+   "pivot": [
+    24,
+    24
+   ],
+   "anchors": {}
+  },
+  "buah_apel": {
+   "file": "buah_apel.png",
+   "w": 66,
+   "h": 72,
+   "pivot": [
+    33,
+    72
+   ],
+   "anchors": {}
+  },
+  "buah_blueberry": {
+   "file": "buah_blueberry.png",
+   "w": 73,
+   "h": 72,
+   "pivot": [
+    36,
+    72
+   ],
+   "anchors": {}
+  },
+  "buah_jeruk": {
+   "file": "buah_jeruk.png",
+   "w": 59,
+   "h": 72,
+   "pivot": [
+    30,
+    72
+   ],
+   "anchors": {}
+  },
+  "buah_pisang": {
+   "file": "buah_pisang.png",
+   "w": 119,
+   "h": 72,
+   "pivot": [
+    60,
+    72
+   ],
+   "anchors": {}
+  },
+  "bukit_1": {
+   "file": "bukit_1.png",
+   "w": 688,
+   "h": 345,
+   "pivot": [
+    344,
+    341
+   ],
+   "anchors": {}
+  },
+  "bukit_2": {
+   "file": "bukit_2.png",
+   "w": 728,
+   "h": 284,
+   "pivot": [
+    364,
+    280
+   ],
+   "anchors": {}
+  },
+  "bunga_1": {
+   "file": "bunga_1.png",
+   "w": 60,
+   "h": 78,
+   "pivot": [
+    30,
+    74
+   ],
+   "anchors": {}
+  },
+  "bunga_2": {
+   "file": "bunga_2.png",
+   "w": 52,
+   "h": 78,
+   "pivot": [
+    26,
+    74
+   ],
+   "anchors": {}
+  },
+  "gedung_1": {
+   "file": "gedung_1.png",
+   "w": 310,
+   "h": 348,
+   "pivot": [
+    155,
+    344
+   ],
+   "anchors": {}
+  },
+  "gedung_2": {
+   "file": "gedung_2.png",
+   "w": 241,
+   "h": 348,
+   "pivot": [
+    120,
+    344
+   ],
+   "anchors": {}
+  },
+  "gedung_3": {
+   "file": "gedung_3.png",
+   "w": 348,
+   "h": 348,
+   "pivot": [
+    174,
+    344
+   ],
+   "anchors": {}
+  },
+  "gerbong_biru_badan": {
+   "file": "gerbong_biru_badan.png",
+   "w": 389,
+   "h": 231,
+   "pivot": [
+    204.0,
+    226.99
+   ],
+   "anchors": {
+    "roda": [
+     [
+      92.0,
+      187.38
+     ],
+     [
+      316.0,
+      187.38
+     ]
+    ],
+    "roda_radius": 40.0,
+    "isi": [
+     47.2,
+     360.8,
+     66.96
+    ]
+   }
+  },
+  "gerbong_biru_belakang": {
+   "file": "gerbong_biru_belakang.png",
+   "w": 224,
+   "h": 318,
+   "pivot": [
+    112.0,
+    262.93
+   ],
+   "anchors": {}
+  },
+  "gerbong_hijau_badan": {
+   "file": "gerbong_hijau_badan.png",
+   "w": 389,
+   "h": 231,
+   "pivot": [
+    204.0,
+    226.99
+   ],
+   "anchors": {
+    "roda": [
+     [
+      92.0,
+      187.38
+     ],
+     [
+      316.0,
+      187.38
+     ]
+    ],
+    "roda_radius": 40.0,
+    "isi": [
+     47.2,
+     360.8,
+     66.96
+    ]
+   }
+  },
+  "gerbong_hijau_belakang": {
+   "file": "gerbong_hijau_belakang.png",
+   "w": 224,
+   "h": 318,
+   "pivot": [
+    112.0,
+    262.93
+   ],
+   "anchors": {}
+  },
+  "gerbong_kuning_badan": {
+   "file": "gerbong_kuning_badan.png",
+   "w": 389,
+   "h": 231,
+   "pivot": [
+    204.0,
+    226.99
+   ],
+   "anchors": {
+    "roda": [
+     [
+      92.0,
+      187.38
+     ],
+     [
+      316.0,
+      187.38
+     ]
+    ],
+    "roda_radius": 40.0,
+    "isi": [
+     47.2,
+     360.8,
+     66.96
+    ]
+   }
+  },
+  "gerbong_kuning_belakang": {
+   "file": "gerbong_kuning_belakang.png",
+   "w": 224,
+   "h": 318,
+   "pivot": [
+    112.0,
+    262.93
+   ],
+   "anchors": {}
+  },
+  "gerbong_merah_badan": {
+   "file": "gerbong_merah_badan.png",
+   "w": 389,
+   "h": 231,
+   "pivot": [
+    204.0,
+    226.99
+   ],
+   "anchors": {
+    "roda": [
+     [
+      92.0,
+      187.38
+     ],
+     [
+      316.0,
+      187.38
+     ]
+    ],
+    "roda_radius": 40.0,
+    "isi": [
+     47.2,
+     360.8,
+     66.96
+    ]
+   }
+  },
+  "gerbong_merah_belakang": {
+   "file": "gerbong_merah_belakang.png",
+   "w": 224,
+   "h": 318,
+   "pivot": [
+    112.0,
+    262.93
+   ],
+   "anchors": {}
+  },
+  "gerbong_roda": {
+   "file": "gerbong_roda.png",
+   "w": 80,
+   "h": 80,
+   "pivot": [
+    40,
+    40
+   ],
+   "anchors": {}
+  },
+  "gubuk_sawah": {
+   "file": "gubuk_sawah.png",
+   "w": 228,
+   "h": 197,
+   "pivot": [
+    114,
+    193
+   ],
+   "anchors": {}
+  },
+  "gunung_1": {
+   "file": "gunung_1.png",
+   "w": 768,
+   "h": 831,
+   "pivot": [
+    384,
+    827
+   ],
+   "anchors": {}
+  },
+  "gunung_2": {
+   "file": "gunung_2.png",
+   "w": 808,
+   "h": 446,
+   "pivot": [
+    404,
+    442
+   ],
+   "anchors": {}
+  },
+  "hewan_ayam": {
+   "file": "hewan_ayam.png",
+   "w": 151,
+   "h": 170,
+   "pivot": [
+    69.0,
+    157.33
+   ],
+   "anchors": {}
+  },
+  "hewan_ayam_depan": {
+   "file": "hewan_ayam_depan.png",
+   "w": 110,
+   "h": 169,
+   "pivot": [
+    55.0,
+    154.33
+   ],
+   "anchors": {}
+  },
+  "hewan_bebek": {
+   "file": "hewan_bebek.png",
+   "w": 161,
+   "h": 171,
+   "pivot": [
+    67.0,
+    157.28
+   ],
+   "anchors": {}
+  },
+  "hewan_bebek_depan": {
+   "file": "hewan_bebek_depan.png",
+   "w": 114,
+   "h": 169,
+   "pivot": [
+    57.0,
+    154.28
+   ],
+   "anchors": {}
+  },
+  "hewan_kelinci": {
+   "file": "hewan_kelinci.png",
+   "w": 112,
+   "h": 172,
+   "pivot": [
+    53.0,
+    159.54
+   ],
+   "anchors": {}
+  },
+  "hewan_kelinci_depan": {
+   "file": "hewan_kelinci_depan.png",
+   "w": 89,
+   "h": 169,
+   "pivot": [
+    45.0,
+    155.54
+   ],
+   "anchors": {}
+  },
+  "hewan_kerbau": {
+   "file": "hewan_kerbau.png",
+   "w": 174,
+   "h": 211,
+   "pivot": [
+    83.0,
+    196.9
+   ],
+   "anchors": {}
+  },
+  "hewan_kerbau_depan": {
+   "file": "hewan_kerbau_depan.png",
+   "w": 132,
+   "h": 202,
+   "pivot": [
+    66.0,
+    186.9
+   ],
+   "anchors": {}
+  },
+  "hewan_kucing": {
+   "file": "hewan_kucing.png",
+   "w": 157,
+   "h": 173,
+   "pivot": [
+    77.0,
+    160.34
+   ],
+   "anchors": {}
+  },
+  "hewan_kucing_depan": {
+   "file": "hewan_kucing_depan.png",
+   "w": 108,
+   "h": 169,
+   "pivot": [
+    54.0,
+    154.34
+   ],
+   "anchors": {}
+  },
+  "hewan_monyet": {
+   "file": "hewan_monyet.png",
+   "w": 152,
+   "h": 171,
+   "pivot": [
+    77.0,
+    157.28
+   ],
+   "anchors": {}
+  },
+  "hewan_monyet_depan": {
+   "file": "hewan_monyet_depan.png",
+   "w": 114,
+   "h": 169,
+   "pivot": [
+    57.0,
+    154.28
+   ],
+   "anchors": {}
+  },
+  "jembatan_kayu": {
+   "file": "jembatan_kayu.png",
+   "w": 968,
+   "h": 411,
+   "pivot": [
+    484,
+    407
+   ],
+   "anchors": {
+    "dek": [
+     484,
+     178
+    ]
+   }
+  },
+  "kincir_air": {
+   "file": "kincir_air.png",
+   "w": 221,
+   "h": 228,
+   "pivot": [
+    110,
+    224
+   ],
+   "anchors": {}
+  },
+  "lampu_jalan": {
+   "file": "lampu_jalan.png",
+   "w": 172,
+   "h": 228,
+   "pivot": [
+    86,
+    224
+   ],
+   "anchors": {}
+  },
+  "matahari": {
+   "file": "matahari.png",
+   "w": 208,
+   "h": 208,
+   "pivot": [
+    104,
+    104
+   ],
+   "anchors": {}
+  },
+  "padi_rumpun": {
+   "file": "padi_rumpun.png",
+   "w": 127,
+   "h": 118,
+   "pivot": [
+    63,
+    114
+   ],
+   "anchors": {}
+  },
+  "paket_biru": {
+   "file": "paket_biru.png",
+   "w": 100,
+   "h": 107,
+   "pivot": [
+    50,
+    107
+   ],
+   "anchors": {}
+  },
+  "paket_kuning": {
+   "file": "paket_kuning.png",
+   "w": 100,
+   "h": 107,
+   "pivot": [
+    50,
+    107
+   ],
+   "anchors": {}
+  },
+  "paket_merah": {
+   "file": "paket_merah.png",
+   "w": 100,
+   "h": 107,
+   "pivot": [
+    50,
+    107
+   ],
+   "anchors": {}
+  },
+  "palang_rel_depan": {
+   "file": "palang_rel_depan.png",
+   "w": 428,
+   "h": 171,
+   "pivot": [
+    214,
+    167
+   ],
+   "anchors": {}
+  },
+  "palang_rel_tutup": {
+   "file": "palang_rel_tutup.png",
+   "w": 168,
+   "h": 77,
+   "pivot": [
+    84,
+    73
+   ],
+   "anchors": {}
+  },
+  "peron_stasiun": {
+   "file": "peron_stasiun.png",
+   "w": 808,
+   "h": 466,
+   "pivot": [
+    404,
+    462
+   ],
+   "anchors": {}
+  },
+  "pohon_bulat": {
+   "file": "pohon_bulat.png",
+   "w": 209,
+   "h": 238,
+   "pivot": [
+    104,
+    234
+   ],
+   "anchors": {}
+  },
+  "pohon_kelapa": {
+   "file": "pohon_kelapa.png",
+   "w": 285,
+   "h": 308,
+   "pivot": [
+    142,
+    304
+   ],
+   "anchors": {}
+  },
+  "pohon_kota": {
+   "file": "pohon_kota.png",
+   "w": 208,
+   "h": 228,
+   "pivot": [
+    104,
+    224
+   ],
+   "anchors": {}
+  },
+  "rumah_biru": {
+   "file": "rumah_biru.png",
+   "w": 320,
+   "h": 326,
+   "pivot": [
+    160,
+    325
+   ],
+   "anchors": {
+    "pintu": [
+     160,
+     260
+    ]
+   }
+  },
+  "rumah_joglo": {
+   "file": "rumah_joglo.png",
+   "w": 388,
+   "h": 322,
+   "pivot": [
+    194,
+    318
+   ],
+   "anchors": {}
+  },
+  "rumah_kuning": {
+   "file": "rumah_kuning.png",
+   "w": 320,
+   "h": 326,
+   "pivot": [
+    160,
+    325
+   ],
+   "anchors": {
+    "pintu": [
+     160,
+     260
+    ]
+   }
+  },
+  "rumah_merah": {
+   "file": "rumah_merah.png",
+   "w": 320,
+   "h": 326,
+   "pivot": [
+    160,
+    325
+   ],
+   "anchors": {
+    "pintu": [
+     160,
+     260
+    ]
+   }
+  },
+  "semak": {
+   "file": "semak.png",
+   "w": 118,
+   "h": 107,
+   "pivot": [
+    59,
+    103
+   ],
+   "anchors": {}
+  },
+  "terowongan_belakang": {
+   "file": "terowongan_belakang.png",
+   "w": 1108,
+   "h": 706,
+   "pivot": [
+    554,
+    702
+   ],
+   "anchors": {}
+  },
+  "tuut_badan": {
+   "file": "tuut_badan.png",
+   "w": 557,
+   "h": 428,
+   "pivot": [
+    278.0,
+    423.26
+   ],
+   "anchors": {
+    "roda": [
+     [
+      142.0,
+      356.72
+     ],
+     [
+      278.0,
+      356.72
+     ],
+     [
+      414.0,
+      356.72
+     ]
+    ],
+    "roda_radius": 67.2,
+    "cerobong": [
+     366.0,
+     16.06
+    ]
+   }
+  },
+  "tuut_belakang": {
+   "file": "tuut_belakang.png",
+   "w": 248,
+   "h": 508,
+   "pivot": [
+    124.0,
+    442.19
+   ],
+   "anchors": {}
+  },
+  "tuut_roda": {
+   "file": "tuut_roda.png",
+   "w": 96,
+   "h": 96,
+   "pivot": [
+    48,
+    48
+   ],
+   "anchors": {}
+  }
+ }
+}

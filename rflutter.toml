@@ -1,0 +1,30 @@
+# rflutter project settings. Remote machines ("instances") are configured per user:
+#   rflutter instances            # list them
+#   rflutter instances add ...    # add one
+#
+# Pin this project to one instance (otherwise your default is used):
+# instance = "main"
+
+[sync]
+# Extra things that must never be uploaded (gitignore syntax). .gitignore is already honoured.
+exclude = []
+# Files that ARE uploaded although .gitignore or the safe defaults keep them home. Signed release
+# builds need these; they are copied to the remote machine, so list only what you accept there.
+# include = ["android/key.properties", "android/app/upload-keystore.jks"]
+include = ["android/key.properties", "android/app/upload-keystore.jks"]
+
+[remote]
+# Flutter version on the remote: "stable" or a release such as "3.35.1". Default: the version in
+# .fvmrc if the project has one, else stable.
+flutter_version = "3.50.0"
+# Extra Android SDK packages, e.g. a specific NDK.
+android_packages = []
+# Environment variables copied from YOUR shell to the remote at run time, never written to disk.
+# Needed for signing passwords or private package registries, e.g. ["KEYSTORE_PASSWORD"].
+forward_env = []
+
+[device]
+# `rflutter run` hot-reloads when you save a file (default true).
+# watch = true
+# adb on this computer, if it is not on PATH:
+# adb = "/path/to/platform-tools/adb"

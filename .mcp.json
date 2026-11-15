@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "rcargo": {
+      "args": [
+        "mcp"
+      ],
+      "command": "rcargo"
+    },
+    "rflutter": {
+      "args": [
+        "mcp"
+      ],
+      "command": "rflutter"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/out
+/target
+.env
+/build
+.dart_tool/
+
+# Rahasia penandatanganan rilis (JANGAN di-commit)
+android/key.properties
+*.jks
+*.keystore

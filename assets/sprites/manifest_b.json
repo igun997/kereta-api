@@ -1,0 +1,290 @@
+{
+ "ppu": 160,
+ "sprites": {
+  "gunung_1": {
+   "file": "gunung_1.png",
+   "w": 768,
+   "h": 831,
+   "pivot": [
+    384,
+    827
+   ],
+   "anchors": {}
+  },
+  "gunung_2": {
+   "file": "gunung_2.png",
+   "w": 808,
+   "h": 446,
+   "pivot": [
+    404,
+    442
+   ],
+   "anchors": {}
+  },
+  "bukit_1": {
+   "file": "bukit_1.png",
+   "w": 688,
+   "h": 345,
+   "pivot": [
+    344,
+    341
+   ],
+   "anchors": {}
+  },
+  "bukit_2": {
+   "file": "bukit_2.png",
+   "w": 728,
+   "h": 284,
+   "pivot": [
+    364,
+    280
+   ],
+   "anchors": {}
+  },
+  "awan_1": {
+   "file": "awan_1.png",
+   "w": 268,
+   "h": 170,
+   "pivot": [
+    134,
+    85
+   ],
+   "anchors": {}
+  },
+  "awan_2": {
+   "file": "awan_2.png",
+   "w": 248,
+   "h": 166,
+   "pivot": [
+    124,
+    83
+   ],
+   "anchors": {}
+  },
+  "awan_3": {
+   "file": "awan_3.png",
+   "w": 288,
+   "h": 191,
+   "pivot": [
+    144,
+    95
+   ],
+   "anchors": {}
+  },
+  "matahari": {
+   "file": "matahari.png",
+   "w": 208,
+   "h": 208,
+   "pivot": [
+    104,
+    104
+   ],
+   "anchors": {}
+  },
+  "pohon_kelapa": {
+   "file": "pohon_kelapa.png",
+   "w": 285,
+   "h": 308,
+   "pivot": [
+    142,
+    304
+   ],
+   "anchors": {}
+  },
+  "pohon_bulat": {
+   "file": "pohon_bulat.png",
+   "w": 209,
+   "h": 238,
+   "pivot": [
+    104,
+    234
+   ],
+   "anchors": {}
+  },
+  "pohon_kota": {
+   "file": "pohon_kota.png",
+   "w": 208,
+   "h": 228,
+   "pivot": [
+    104,
+    224
+   ],
+   "anchors": {}
+  },
+  "semak": {
+   "file": "semak.png",
+   "w": 118,
+   "h": 107,
+   "pivot": [
+    59,
+    103
+   ],
+   "anchors": {}
+  },
+  "bunga_1": {
+   "file": "bunga_1.png",
+   "w": 60,
+   "h": 78,
+   "pivot": [
+    30,
+    74
+   ],
+   "anchors": {}
+  },
+  "bunga_2": {
+   "file": "bunga_2.png",
+   "w": 52,
+   "h": 78,
+   "pivot": [
+    26,
+    74
+   ],
+   "anchors": {}
+  },
+  "padi_rumpun": {
+   "file": "padi_rumpun.png",
+   "w": 127,
+   "h": 118,
+   "pivot": [
+    63,
+    114
+   ],
+   "anchors": {}
+  },
+  "rumah_joglo": {
+   "file": "rumah_joglo.png",
+   "w": 388,
+   "h": 322,
+   "pivot": [
+    194,
+    318
+   ],
+   "anchors": {}
+  },
+  "gubuk_sawah": {
+   "file": "gubuk_sawah.png",
+   "w": 228,
+   "h": 197,
+   "pivot": [
+    114,
+    193
+   ],
+   "anchors": {}
+  },
+  "kincir_air": {
+   "file": "kincir_air.png",
+   "w": 221,
+   "h": 228,
+   "pivot": [
+    110,
+    224
+   ],
+   "anchors": {}
+  },
+  "gedung_1": {
+   "file": "gedung_1.png",
+   "w": 310,
+   "h": 348,
+   "pivot": [
+    155,
+    344
+   ],
+   "anchors": {}
+  },
+  "gedung_2": {
+   "file": "gedung_2.png",
+   "w": 241,
+   "h": 348,
+   "pivot": [
+    120,
+    344
+   ],
+   "anchors": {}
+  },
+  "gedung_3": {
+   "file": "gedung_3.png",
+   "w": 348,
+   "h": 348,
+   "pivot": [
+    174,
+    344
+   ],
+   "anchors": {}
+  },
+  "lampu_jalan": {
+   "file": "lampu_jalan.png",
+   "w": 172,
+   "h": 228,
+   "pivot": [
+    86,
+    224
+   ],
+   "anchors": {}
+  },
+  "peron_stasiun": {
+   "file": "peron_stasiun.png",
+   "w": 808,
+   "h": 466,
+   "pivot": [
+    404,
+    462
+   ],
+   "anchors": {}
+  },
+  "palang_rel_tutup": {
+   "file": "palang_rel_tutup.png",
+   "w": 168,
+   "h": 77,
+   "pivot": [
+    84,
+    73
+   ],
+   "anchors": {}
+  },
+  "palang_rel_depan": {
+   "file": "palang_rel_depan.png",
+   "w": 428,
+   "h": 171,
+   "pivot": [
+    214,
+    167
+   ],
+   "anchors": {}
+  },
+  "terowongan_belakang": {
+   "file": "terowongan_belakang.png",
+   "w": 1108,
+   "h": 706,
+   "pivot": [
+    554,
+    702
+   ],
+   "anchors": {}
+  },
+  "jembatan_kayu": {
+   "file": "jembatan_kayu.png",
+   "w": 968,
+   "h": 411,
+   "pivot": [
+    484,
+    407
+   ],
+   "anchors": {
+    "dek": [
+     484,
+     178
+    ]
+   }
+  },
+  "bintang_kecil": {
+   "file": "bintang_kecil.png",
+   "w": 48,
+   "h": 48,
+   "pivot": [
+    24,
+    24
+   ],
+   "anchors": {}
+  }
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "ppu": 160,
+ "sprites": {
+  "gerbong_biru_badan": {
+   "file": "gerbong_biru_badan.png",
+   "w": 389,
+   "h": 231,
+   "pivot": [
+    204.0,
+    226.99
+   ],
+   "anchors": {
+    "roda": [
+     [
+      92.0,
+      187.38
+     ],
+     [
+      316.0,
+      187.38
+     ]
+    ],
+    "roda_radius": 40.0,
+    "isi": [
+     47.2,
+     360.8,
+     66.96
+    ]
+   }
+  },
+  "gerbong_biru_belakang": {
+   "file": "gerbong_biru_belakang.png",
+   "w": 224,
+   "h": 318,
+   "pivot": [
+    112.0,
+    262.93
+   ],
+   "anchors": {}
+  },
+  "gerbong_hijau_badan": {
+   "file": "gerbong_hijau_badan.png",
+   "w": 389,
+   "h": 231,
+   "pivot": [
+    204.0,
+    226.99
+   ],
+   "anchors": {
+    "roda": [
+     [
+      92.0,
+      187.38
+     ],
+     [
+      316.0,
+      187.38
+     ]
+    ],
+    "roda_radius": 40.0,
+    "isi": [
+     47.2,
+     360.8,
+     66.96
+    ]
+   }
+  },
+  "gerbong_hijau_belakang": {
+   "file": "gerbong_hijau_belakang.png",
+   "w": 224,
+   "h": 318,
+   "pivot": [
+    112.0,
+    262.93
+   ],
+   "anchors": {}
+  },
+  "gerbong_kuning_badan": {
+   "file": "gerbong_kuning_badan.png",
+   "w": 389,
+   "h": 231,
+   "pivot": [
+    204.0,
+    226.99
+   ],
+   "anchors": {
+    "roda": [
+     [
+      92.0,
+      187.38
+     ],
+     [
+      316.0,
+      187.38
+     ]
+    ],
+    "roda_radius": 40.0,
+    "isi": [
+     47.2,
+     360.8,
+     66.96
+    ]
+   }
+  },
+  "gerbong_kuning_belakang": {
+   "file": "gerbong_kuning_belakang.png",
+   "w": 224,
+   "h": 318,
+   "pivot": [
+    112.0,
+    262.93
+   ],
+   "anchors": {}
+  },
+  "gerbong_merah_badan": {
+   "file": "gerbong_merah_badan.png",
+   "w": 389,
+   "h": 231,
+   "pivot": [
+    204.0,
+    226.99
+   ],
+   "anchors": {
+    "roda": [
+     [
+      92.0,
+      187.38
+     ],
+     [
+      316.0,
+      187.38
+     ]
+    ],
+    "roda_radius": 40.0,
+    "isi": [
+     47.2,
+     360.8,
+     66.96
+    ]
+   }
+  },
+  "gerbong_merah_belakang": {
+   "file": "gerbong_merah_belakang.png",
+   "w": 224,
+   "h": 318,
+   "pivot": [
+    112.0,
+    262.93
+   ],
+   "anchors": {}
+  },
+  "hewan_ayam": {
+   "file": "hewan_ayam.png",
+   "w": 151,
+   "h": 170,
+   "pivot": [
+    69.0,
+    157.33
+   ],
+   "anchors": {}
+  },
+  "hewan_ayam_depan": {
+   "file": "hewan_ayam_depan.png",
+   "w": 110,
+   "h": 169,
+   "pivot": [
+    55.0,
+    154.33
+   ],
+   "anchors": {}
+  },
+  "hewan_bebek": {
+   "file": "hewan_bebek.png",
+   "w": 161,
+   "h": 171,
+   "pivot": [
+    67.0,
+    157.28
+   ],
+   "anchors": {}
+  },
+  "hewan_bebek_depan": {
+   "file": "hewan_bebek_depan.png",
+   "w": 114,
+   "h": 169,
+   "pivot": [
+    57.0,
+    154.28
+   ],
+   "anchors": {}
+  },
+  "hewan_kelinci": {
+   "file": "hewan_kelinci.png",
+   "w": 112,
+   "h": 172,
+   "pivot": [
+    53.0,
+    159.54
+   ],
+   "anchors": {}
+  },
+  "hewan_kelinci_depan": {
+   "file": "hewan_kelinci_depan.png",
+   "w": 89,
+   "h": 169,
+   "pivot": [
+    45.0,
+    155.54
+   ],
+   "anchors": {}
+  },
+  "hewan_kerbau": {
+   "file": "hewan_kerbau.png",
+   "w": 174,
+   "h": 211,
+   "pivot": [
+    83.0,
+    196.9
+   ],
+   "anchors": {}
+  },
+  "hewan_kerbau_depan": {
+   "file": "hewan_kerbau_depan.png",
+   "w": 132,
+   "h": 202,
+   "pivot": [
+    66.0,
+    186.9
+   ],
+   "anchors": {}
+  },
+  "hewan_kucing": {
+   "file": "hewan_kucing.png",
+   "w": 157,
+   "h": 173,
+   "pivot": [
+    77.0,
+    160.34
+   ],
+   "anchors": {}
+  },
+  "hewan_kucing_depan": {
+   "file": "hewan_kucing_depan.png",
+   "w": 108,
+   "h": 169,
+   "pivot": [
+    54.0,
+    154.34
+   ],
+   "anchors": {}
+  },
+  "hewan_monyet": {
+   "file": "hewan_monyet.png",
+   "w": 152,
+   "h": 171,
+   "pivot": [
+    77.0,
+    157.28
+   ],
+   "anchors": {}
+  },
+  "hewan_monyet_depan": {
+   "file": "hewan_monyet_depan.png",
+   "w": 114,
+   "h": 169,
+   "pivot": [
+    57.0,
+    154.28
+   ],
+   "anchors": {}
+  },
+  "tuut_badan": {
+   "file": "tuut_badan.png",
+   "w": 557,
+   "h": 428,
+   "pivot": [
+    278.0,
+    423.26
+   ],
+   "anchors": {
+    "roda": [
+     [
+      142.0,
+      356.72
+     ],
+     [
+      278.0,
+      356.72
+     ],
+     [
+      414.0,
+      356.72
+     ]
+    ],
+    "roda_radius": 67.2,
+    "cerobong": [
+     366.0,
+     16.06
+    ]
+   }
+  },
+  "tuut_belakang": {
+   "file": "tuut_belakang.png",
+   "w": 248,
+   "h": 508,
+   "pivot": [
+    124.0,
+    442.19
+   ],
+   "anchors": {}
+  }
+ }
+}
